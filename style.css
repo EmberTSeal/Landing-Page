@@ -1,4 +1,5 @@
 body{
+    font-family: "Outfit", sans-serif;
     margin:0;
     display: flex;
     flex-direction: column;
@@ -31,3 +32,33 @@ header{
 .right-links>ul>li{
     list-style: none;
 }
+
+main{
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-info{
+    color: white;
+}
+
+.main-info>h1{
+    font-size: 2.5em;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    font-size: 1.2em;
+    font-weight: 500;
+    font-family: inherit;
+    color: white;
+    padding: 5px 40px;
+    text-align: center;
+    border-style: none;
+    border-color: #3882F6;
+    border-radius: 40px;
+}
+
