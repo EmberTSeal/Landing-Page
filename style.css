@@ -35,7 +35,7 @@ header{
 
 main{
     max-height: 80vh;
-    padding: 60px;
+    padding: 60px 0px;
     background-color: #1F2937;
     display: flex;
     flex-direction: row;
