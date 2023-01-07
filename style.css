@@ -71,7 +71,7 @@ main{
     text-align: center;
     border-style: none;
     border-color: #3882F6;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 section{
@@ -176,3 +176,13 @@ section{
     font-size: 18px;
 }
 
+footer{
+    color: #e5e7eb;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 35px 10px 35px 10px;
+}
+
+footer>p{
+    margin: 2px;
+}
