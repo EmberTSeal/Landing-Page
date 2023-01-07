@@ -123,7 +123,7 @@ section{
 }
 
 .testimonial>p{
-    margin: 150px 20vw 20px 20vw;
+    margin: 120px 20vw 20px 20vw;
     line-height: 38px;
     color: #1F2937;
     font-style: italic;
@@ -133,6 +133,7 @@ section{
 
 .testimonial>.person{
     margin-top: 0;
+    margin-bottom: 100px;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
