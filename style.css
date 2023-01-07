@@ -74,7 +74,7 @@ main{
 }
 
 section{
-    margin: 10px;
+    margin: 70px 10px;
 }
 
 .info-cards{   
@@ -110,4 +110,30 @@ section{
     height: 150px;
     border: 3px solid #3882F6;
     border-radius: 10px;
+}
+
+.testimonial{
+    background-color: #e5e7eb;
+    margin: 0;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.testimonial>p{
+    margin: 150px 100px 20px 100px;
+    padding: 20px;
+    line-height: 38px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 36px;
+}
+
+.testimonial>.person{
+    margin-top: 0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
 }
