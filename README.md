@@ -7,5 +7,5 @@ Try it here: https://embertseal.github.io/Landing-Page/
 ## Tech Stack:
 - HTML, CSS (flexbox)
 
-## Final Result
+## Final Result:
 <img src = "final.png">
