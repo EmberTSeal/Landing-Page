@@ -60,17 +60,18 @@ main{
     margin-bottom: 30px;
 }
 
-.sign-up{
+.main-info>a{
+    text-decoration: none;
     background-color: #3882F6;
     font-size: 1.2em;
     font-weight: 500;
     font-family: inherit;
     color: white;
-    padding: 5px 40px;
+    padding: 8px 40px;
     text-align: center;
     border-style: none;
     border-color: #3882F6;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 section{
